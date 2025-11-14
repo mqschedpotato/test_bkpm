@@ -1,0 +1,6 @@
+streamlet
+langchain
+openai
+pinecone-client
+pypdf
+tiktoken
